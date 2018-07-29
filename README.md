@@ -1,2 +1,2 @@
 # DsPython
-Hello this repo is for learning the Ds
+This repo is important for future use
